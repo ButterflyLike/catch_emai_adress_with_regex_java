@@ -6,8 +6,10 @@ import java.util.regex.Pattern;
 
 public class CatchAddress {
 	public static void main(String[] args) {
-		try {
+		try {	
+			//this file is a downloaded static html page included email address.
 			BufferedReader reader =new  BufferedReader(new FileReader("F:\\test\\email.html"));
+				
 			String line = "";
 			while((line=reader.readLine())!= null) {
 				parese(line);
