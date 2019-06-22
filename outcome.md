@@ -1,10 +1,13 @@
 hpdrxiaoyu@sina.com
 feb_209@163.com
+yuulee@yahoo.cn
 cjcdjk@126.com
 xhy.163@163.com
+joria0919@yahoo.cn
 reido@163.com
 luka19tong@163.com
 471058178@qq.com
+lhy_sophia08@cuc.edu.cn
 tiffanylovelife@126.com
 lychee1842@gmail.com
 zyqwendy@hotmail.com
@@ -29,7 +32,7 @@ qianjiangyue86@163.com
 nununiu@yahoo.com
 zhangqian2355366@sina.com
 dudulang@hotmail.com
-kuazhang114@yahoo.com
+kuazhang114@yahoo.com.cn
 yaoru112@126.com
 bjwhj@163.com
 zhixuxin@sina.com
@@ -47,12 +50,13 @@ flourseason@sohu.com
 hxtycm@126.com
 8667717@qq.com
 zhongjitiantangx@163.com
-gechunju@yahoo.com
+gechunju@yahoo.com.cn
 rukawa-011@163.com
 karen.ruc@gmail.com
 wuyangwuyou@sina.com
 sheepwhite17@163.com
 305568960@qq.com
+cai11@yahoo.cn
 WYJMEANSEGG@163.com
 iamhappy163@163.com
 neverhundcattle@sina.com
@@ -81,3 +85,4 @@ zzxmhh@163.com
 caoyutianxin@163.com
 1002.siya@gmail.com
 451176555@qq.com
+1234@webmail.cn
