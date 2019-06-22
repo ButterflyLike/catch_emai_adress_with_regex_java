@@ -25,7 +25,7 @@ public class CatchAddress {
 		}
 	}
 	private static void parese(String line) {
-		Pattern pp = Pattern.compile("[\\w[.-]]+@[\\w[.-]]+\\.[\\w]+");
+		Pattern pp = Pattern.compile("[\\w[.-]]+@[\\w[.-]]+\\.com");
 		Matcher mm = pp.matcher(line);
 		while(mm.find()) {
 			System.out.println(mm.group());
